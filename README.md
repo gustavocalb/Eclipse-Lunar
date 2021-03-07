@@ -7,6 +7,6 @@
 </h1>
 <br>
   <div align="center">
-  <img alt="ts-preview" src="exemple.png" width="700" style="box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.75);"/>
+  <img alt="ts-preview" src="exemple.png" width="900" style="box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.75);"/>
   </div>
 
