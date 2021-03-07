@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-#Dark theme for Visual Studio Code
+##Dark theme for Visual Studio Code
 
 ---
 
