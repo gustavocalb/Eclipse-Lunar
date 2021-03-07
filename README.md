@@ -17,8 +17,6 @@
 <br/>
 <br/>
 
----
-
   <img alt="ts-preview" src="https://i.imgur.com/4CJ0Uhm.png" style="box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.75);"/>
 
 <br/>
