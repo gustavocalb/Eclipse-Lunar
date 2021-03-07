@@ -26,4 +26,4 @@
 <br/>
 
 ### Install
-<a href="https://marketplace.visualstudio.com/items?itemName=EclipseLunarTheme.eclipse-lunar">Install Eclipse Lunar Thme </a>
+<a href="https://marketplace.visualstudio.com/items?itemName=EclipseLunarTheme.eclipse-lunar">Install Eclipse Lunar Theme </a>
