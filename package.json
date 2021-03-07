@@ -1,0 +1,45 @@
+{
+  "name": "eclipse-lunar",
+  "displayName": "Eclipse Lunar",
+  "description": "Dark theme for Visual Studio Code",
+  "version": "0.1.0",
+  "author": "Gustavo Carvalho <gugacalb@hotmail.com>",
+  "publisher": "EclipseLunarTheme",
+  "engines": {
+    "vscode": "^1.49.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FireShark688/Eclipse-Lunar"
+  },
+  "galleryBanner": {
+    "color": "#0e0e0e",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "logo2.png",
+  "keywords": [
+    "dark",
+    "dark theme",
+    "Lunar",
+    "Eclipse Lunar theme",
+    "Eclipse Lunar",
+    "black",
+    "black theme",
+    "purple",
+    "purple theme",
+    "elegant",
+    "elegant theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Eclipse Lunar",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Eclipse Lunar-color-theme.json"
+      }
+    ]
+  }
+}
