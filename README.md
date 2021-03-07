@@ -7,5 +7,5 @@
 </h1>
 <br>
 
-  <img alt="ts-preview" src="exemple.png" width="300" style="box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.75);"/>
+  <img alt="ts-preview" src="exemple.png" width="700" style="box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.75);"/>
 
