@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="logo.png" alt="Markdownify" width="200">
+  <img src="logo.png" alt="Markdownify" width="150">
   <br>
   Eclipse Lunar
   <br>
