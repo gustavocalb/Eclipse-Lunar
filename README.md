@@ -25,4 +25,6 @@
 
 <br/>
 
-### <a src="https://marketplace.visualstudio.com/items?itemName=EclipseLunarTheme.eclipse-lunar">Install</a>
+### Install
+
+<a src="https://marketplace.visualstudio.com/items?itemName=EclipseLunarTheme.eclipse-lunar">Install</a>
